@@ -13,7 +13,10 @@ data science, and systems programming.
 - Verilog
 
 ## 🚀 Projects
-
+  -Smooth Cubic Surfaces over a Non-Algebraically Closed Field (Tubitak)
+  -System Programing
+  -GTU chat bot
+  -OOP
 
 ## 📚 Currently Learning
 
